@@ -45,7 +45,6 @@
   \par
   \vskip 1.5em}
 \makeatother
-\zihao 4
 \titleformat{\section}{\raggedright\heiti\zihao{-2}\fontspec{Arial}\color[rgb]{0.15234375,0.19140625,0.4921875}}{$\blacksquare$}{1em}{}{}
 \titleformat{\subsection}{\raggedright\heiti\zihao{-3}\fontspec{Arial}\color[rgb]{0.15234375,0.19140625,0.4921875}}{}{28pt}{}{}
 \titleformat{\subsubsection}{\raggedright\heiti\zihao{4}\fontspec{Arial}\color[rgb]{0.15234375,0.19140625,0.4921875}}{}{28pt}{}{}
